@@ -1,4 +1,20 @@
-# Table of contents
+# Summary
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [1. Introduction to Java](chap1.md)
+  * [1.1 Essentials](chap1/chap11.md)
+  * [1.2 Objects](chap1/chap12.md)
+* [2. Lists](chap2.md)
+  * [2.1 Mystery of the Walrus](chap2/chap21.md)
+  * [2.2 The SLList](chap2/chap22.md)
+  * [2.3 The DList](chap2/chap23.md)
+  * [2.4 Arrays](chap2/chap24.md)
+  * [2.5 The AList](chap2/chap25.md)
+* [3. Testing](chap3.md)
+  * [3.1 A New Way](chap3/chap31.md)
+* [4. Inheritance, Implements](chap4.md)
+  * [4.1 Intro and Interfaces](chap4/chap41.md)
+  * [4.2 Extends, Casting, and Higher Order Functions](chap4/chap42.md)
+  * [4.3 Subtype Polymorphism vs. HOF](chap4/chap43.md)
+  * [4.4 Java Libraries and Packages](chap4/chap44.md)
 
